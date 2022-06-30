@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi👋 I'm Arif
 
 # 💫 About Me:
 I am a Frontend Developer,<br>&& FullStack Developer trainee
